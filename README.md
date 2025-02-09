@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Bonnie+Cruz;I'm+a+junior+Software+Engineer)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Bonnie</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f4d03f&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!🌻;My+name+is+Bonnie+Cruz🌻;I'm+a+junior+Software+Engineer🌻)](https://git.io/typing-svg)
+<h1 align="center">Hi👋, I'm Bonnie</h1>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966">
 
-# 💫 About Me:
+# 🌻 About Me:
 I am a junior software developer at the exciting start of my journey in the tech world. Driven by a passion for creative problem-solving and a desire to create impactful, user-centered solutions, I’m motivated by the challenge of continuous learning and the opportunity to make a difference through technology.
 
 
